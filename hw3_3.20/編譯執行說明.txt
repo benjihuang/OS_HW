@@ -1,0 +1,3 @@
+½sÄ¶¥´ g++ -o filecopy filecopy.c
+
+°õ¦æ¥´ ./filecopy input.txt copy.txt
