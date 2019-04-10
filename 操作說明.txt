@@ -1,3 +1,0 @@
-½sÄ¶½Ğ¥´ gcc pthreads.c -lpthread -o pthreads
-
-°õ¦æ ./pthreads + (number or numbers)
