@@ -1,3 +1,0 @@
-½sÄ¶½Ğ¥´ gcc bankers_algorithm.c -lpthread -o bankers
-
-°õ¦æ ./bankers
